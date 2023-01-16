@@ -1,0 +1,6 @@
+*.apk
+*.log
+*.jar
+*.bat
+*.toml
+/revanced-cache
